@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-l9fiej.privatetalks.online/sitemap.xml
